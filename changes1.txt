@@ -1,0 +1,5 @@
+1. emails are sending through google server. we will use microsoft exchange later
+
+2. upload leads should send only 30 campaigns at a time.
+
+3. campaign should be simple like 4 lines and signature will be included from microsoft exchange automatically with tracking code.

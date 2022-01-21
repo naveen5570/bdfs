@@ -1,0 +1,42 @@
+1. admin dashboard top section to speed up ---- pending
+
+2. bottom right to remove and left section to full width
+
+3. leadStatus level bulk assign problem - assigning only one at a time.
+
+4. last level piechart showing undefined ----- pending
+
+5. showing counting different on parent level to child level and leads after selecting "All" showing diffent numbers
+
+6. edit request reply option for comment.
+
+7. notes list vertical scroller. ui change
+
+8. view notes slide to atleast half screen.
+
+9. view all leads show horizontal scroll at the bottom of the page
+
+
+
+
+10. Request Access
+
+
+
+11. Show all option everywhere in lead listing. Follow up page problem. user and admin both
+
+12. scroll css for leads in user panel. done
+
+13. lead count in user.
+
+14. show only assigned leads to user. done
+
+15. broker dealer link change to app.brokerdealerforsale.com
+
+
+broker dealer forms not working need to be checked. 
+bdfs.brokerdealer.com to check if implemented everywhere.
+laravel installation registration join steps not working
+phone number to check everywhere
+
+
